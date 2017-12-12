@@ -281,4 +281,6 @@ a:hover {
 
 .main-container {
     background: url(../img/timg.jpg) no-repeat top center;
+    background-color: #AC4234;
+    height: 3333px;
 }
